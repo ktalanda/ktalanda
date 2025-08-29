@@ -1,6 +1,6 @@
 
 
-| Group | Languages |
+| | |
 |---|---|
 | Web | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/ktalanda?tab=repositories&q=language:JavaScript&type=public) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/ktalanda?tab=repositories&q=language:TypeScript&type=public) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)](https://github.com/ktalanda?tab=repositories&q=language:CSS&type=public) [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](https://github.com/ktalanda?tab=repositories&q=language:HTML&type=public) |
 | DevOps | [![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white)](https://github.com/ktalanda?tab=repositories&q=language:Shell&type=public) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://github.com/ktalanda?tab=repositories&q=language:Docker&type=public) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/ktalanda?tab=repositories&q=language:GitHub%20Actions&type=public) [![YAML](https://img.shields.io/badge/YAML-CCCCCC?logo=yaml&logoColor=black)](https://github.com/ktalanda?tab=repositories&q=language:YAML&type=public) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/ktalanda?tab=repositories&q=language:Python&type=public) |
